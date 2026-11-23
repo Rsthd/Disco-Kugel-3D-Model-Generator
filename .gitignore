@@ -1,0 +1,9 @@
+*.stl
+*.3mf
+*.obj
+__pycache__/
+*.pyc
+.venv/
+venv/
+.vscode/
+.idea/
